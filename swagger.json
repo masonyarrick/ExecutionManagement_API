@@ -98,6 +98,10 @@
       "put" : {
         "tags" : [ "admins" ],
         "summary" : "Update an existing Work Directive."
+      },
+      "delete" : {
+        "tags" : [ "admins" ],
+        "summary" : "Deletes an existing Work Directive."
       }
     },
     "/workDirective/{id}/complete" : {
