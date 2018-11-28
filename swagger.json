@@ -79,6 +79,10 @@
         "tags" : [ "developers" ],
         "summary" : "Gets a specific Job List based on its unique identifier."
       },
+      "put" : {
+        "tags" : [ "admins" ],
+        "summary" : "Updates an existing Job List."
+      },
       "delete" : {
         "tags" : [ "admins" ],
         "summary" : "Deletes an existing Job List."
