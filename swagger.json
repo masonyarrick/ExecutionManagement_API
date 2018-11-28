@@ -55,6 +55,10 @@
         "tags" : [ "developers" ],
         "summary" : "Retrieves a specific Job Order based on its unique identifier."
       },
+      "put" : {
+        "tags" : [ "admins" ],
+        "summary" : "Updates an existing Job Order."
+      },
       "delete" : {
         "tags" : [ "admins" ],
         "summary" : "Deletes an existing Job Order."
