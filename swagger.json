@@ -122,9 +122,9 @@
         "summary" : "Create a new Work Directive that is not associated with a Job Order."
       },
       "get" : {
-        "tags" : [ "developers" ]
-      },
-      "summary" : "Find Work Directives based on search criteria."
+        "tags" : [ "developers" ],
+        "summary" : "Find Work Directives based on search criteria."
+      }
     }
   },
   "definitions" : null,
